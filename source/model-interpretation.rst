@@ -210,7 +210,7 @@ Interpretation of units
 
    b. Where the units reference is to built-in units other than a base
       unit, then the base unit reduction SHALL be derived from the row
-      of ? for which the value in the 'Name' column matches the name of
+      of the :ref:`built-in-units` table for which the value in the 'Name' column matches the name of
       the units reference. The offset of the base unit reduction SHALL
       be equal to the number in the 'Offset from base units' column of
       the row, and the multiplier SHALL be equal to the number at the
