@@ -1,3 +1,10 @@
+THIS IS A CLONE OF THE DRAFT.
+
+Please see https://cellml-specification.readthedocs.org/en/latest/
+
+Any changes in this clone relative to that version are still just work in progress, 
+and presented here just for convenient checking rendering using the ReadTheDocs system.
+
    This document is an unofficial working draft. The below describes
    the intended status of the specification, and not its current status.
 
